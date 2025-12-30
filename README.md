@@ -1,1 +1,7 @@
-# Project-vs-Programme-
+Projects vs programs: why the distinction matters
+One of the most common causes of failure in complex delivery environments is treating programs like projects.
+A project is finite. It has a defined scope, a clear start and end, and success is usually measured by time, cost, and quality. A program, by contrast, is a collection of interdependent projects aligned to a broader strategic outcome. Programs evolve over time, absorb change, and require decisions that optimise the whole rather than any single component.
+When this distinction is ignored, organisations apply project-level controls to program-level problems. Reporting looks healthy at an individual project level while systemic risk accumulates across the program. Small schedule slips, minor budget adjustments, or isolated scope changes appear manageable in isolation but combine to undermine the intended outcome.
+Effective project management frameworks recognise this difference early.
+They establish governance structures that operate at the appropriate level, separate project execution from program decision-making, and ensure that trade-offs are assessed in the context of overall objectives rather than local optimisation. This is particularly critical in infrastructure, transformation, and multi-stakeholder environments where delivery success is defined by long-term value, not short-term milestones.
+The frameworks outlined in this repository are designed to work across both contexts — providing enough structure to control individual projects while remaining flexible enough to support program-level adaptation and decision-making.
